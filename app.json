@@ -1,0 +1,36 @@
+{
+  "expo": {
+    "name": "CalculatorApp",
+    "slug": "calculatorappprajwal",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/splash-icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.milind_03.CalculatorApp"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+
+        "projectId": "7376323d-057d-421a-ac07-ed078bf33e84"
+      }
+    },
+    "owner": "rajvaibhav"
+  }
+}
